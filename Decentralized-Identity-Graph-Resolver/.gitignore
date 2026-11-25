@@ -1,0 +1,25 @@
+# Maven
+target/
+
+# IDE
+.vscode/
+.idea/
+
+# Java
+*.class
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Private keys and sensitive files
+*.pem
+*.p12
+*.pfx
+*.jks
+.env
